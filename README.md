@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=byli6u2vzhrtqt8tshvc1tqv7&cover_image=false&theme=default">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=byli6u2vzhrtqt8tshvc1tqv7&cover_image=true&theme=novatorem">
 </p>
 
 ----
